@@ -1,6 +1,5 @@
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
-CIS 120 Homework 8 README
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
+
+# CIS 120 Homework 8 README
 
 This game is snake but slightly different. The player's objective is to get as many foods 
 as possible within the time limit. However, when the snake eats food, +4 seconds is applied to
